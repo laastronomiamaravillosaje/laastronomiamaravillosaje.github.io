@@ -144,16 +144,6 @@
         <p>La astronomía es la ciencia que estudia el universo y todo lo que contiene, incluyendo estrellas, planetas, galaxias, materia oscura y otros fenómenos cósmicos. </p>
         <p> Se ocupa de comprender la estructura, evolución, y origen del universo, así como de la dinámica de los cuerpos celestes y los fenómenos que ocurren en el espacio.</p>
         <p>Aqui aprenderemos los hechos historicos mas la historia mas importante de toda la astronomía</p>
-		<ol>
-		<li>Astronomia pretelescopica</li>
-		    <ol>
-			<li>La observacion del cielo en la prehistoria</li>
-			<li>Europa prehistorica</li>
-	        </ol>
-		<li>La astronomia en las civilizaciones antiguas</li>
-		<li>Astronomia medieval</li>
-		<li>Astronomia moderna</li>
-		</ol>
 	 <section id="Reconocimientos">
 	 <section id="Reconocimientos">
     <header>
